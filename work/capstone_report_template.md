@@ -4,7 +4,7 @@
 - **Lane:** SEO Content Optimisation
 - **Repo:** https://github.com/Srinithi-A/SRIML
 - **Date:** July 2026
-
+https://docs.google.com/document/d/e/2PACX-1vT9mnvUjQ6c5lI1iDV1BYURK0cCeTBuqzED3UvrOROhnnxsyltO6CPPHtXGl2dsRUc7csFKkodPffJw/pub
 https://github.com/Srinithi-A/SRIML/blob/main/work/notebooks/capstone.ipynb
 
 ## 1. Problem framing
