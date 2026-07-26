@@ -1,7 +1,2 @@
 # submission/
-
-One file lives here: **`paper_url.txt`**.
-
-When your capstone research paper is deployed, replace the placeholder in
-`paper_url.txt` with **exactly one line — the direct URL of your deployed paper**.
-Nothing else goes in this folder. This file is mandatory: it is how your paper is found.
+https://docs.google.com/document/d/e/2PACX-1vT9mnvUjQ6c5lI1iDV1BYURK0cCeTBuqzED3UvrOROhnnxsyltO6CPPHtXGl2dsRUc7csFKkodPffJw/pub
